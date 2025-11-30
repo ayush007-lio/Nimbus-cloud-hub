@@ -2,7 +2,7 @@ Project Title Dynamic weather dashboard
 
 Description A sleek, responsive weather dashboard built with pure vanilla JavaScript. It transforms OpenWeather API data into a beautiful glassmorphism UI, complete with dynamic backgrounds, animated Skycons, and a detailed 5-day forecast.
 
-Live Demo Link https://dynamicweatherdashboardusingcloud.netlify.app/
+Live Demo Link https://nimbus-cloud-dashboard.netlify.app/
 
 Screenshot
 

@@ -6,13 +6,9 @@
 
 ## 📸 Screenshots
 
-<div align="center">
-  <img src="<img width="1647" height="770" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/05be6769-93f5-44d3-904d-2c502d9107f3" />
-" alt="Dashboard Main View" width="30%" />
-  <img src="<img width="1625" height="795" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/f270deb5-39ba-469a-a6d2-d60f38305548" />
-" alt="Mobile View" width="30%" />
-  <img src="./path-to-your-image3.png" alt="Search Result" width="30%" />
-</div>
+<img width="1647" height="770" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/84722a1e-a42d-4fa0-9a70-e0e855e047bb" /> 
+<img width="1625" height="795" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/097adfb8-99b1-447a-ab13-e6e6a27663f9" />
+
 
 ---
 
